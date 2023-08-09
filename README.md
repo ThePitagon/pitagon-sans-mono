@@ -25,7 +25,7 @@ Pitagon Sans Mono is a part of the Pitagon font set, which be used in Pi Design 
 Pitagon Sans Mono is a monospaced, unmodulated (“sans serif”) design suitable for programming code and other uses where
 a fixed-width font is needed. It supports the Latin, Cyrillic and Greek scripts, and various symbols. It also contains
 the Pitagon Design Principles embodied in the Pitagon Design System (Pi Design System). Pitagon Sans Mono is implemented
-and inspired by font sets like as Roboto Mono and Noto Sans Mono.
+and inspired by font sets like as JetBrains Mono, Roboto Mono and Noto Sans Mono.
 
 Pitagon Sans Mono’s typeface forms are simple and free from unnecessary details. Rendered in small sizes, the text looks
 crisper. The easier the forms, the faster the eye perceives them and the less effort the brain needs to process them.
